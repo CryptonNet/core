@@ -1,1 +1,1 @@
-# core
+This project is licensed under GNU GPL v3 or later.
